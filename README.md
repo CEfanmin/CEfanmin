@@ -1,8 +1,11 @@
-## Hello 大家好 👋
+## Hello 👋
 
-### 个人简介
+### About Me
 
-本科毕业于重庆大学，硕士毕业于电子科技大学，游走于学术界和工业界之间。
+*graduated from Chongqing University with a bachelor's degree* 
+
+*university of Electronic Science and Technology of China with a master's degree*
+
 
 
 
