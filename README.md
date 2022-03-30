@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello 大家好 👋
+
+### 个人简介
+
+本科毕业于重庆大学，硕士毕业于电子科技大学，游走于学术界和工业界之间。
+
+
+
+
 
 <!--
 **CEfanmin/CEfanmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
