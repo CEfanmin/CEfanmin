@@ -2,9 +2,7 @@
 
 ### About Me
 
-I’m graduated from **Chongqing University** with a bachelor's degree
-
-I’m graduated from **University of Electronic Science and Technology of China** with a master's degree
+I’m graduated from **University of Electronic Science and Technology of China** with a master's degree and **Chongqing University** with a bachelor's degree
 
 I’m a **researcher** in a cyberspace security company  
 
