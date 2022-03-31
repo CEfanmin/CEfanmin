@@ -1,10 +1,10 @@
-## Hello Everyone 👋
+## Hello👋 Nice to meet you!
 
 ### About Me
 
 I’m graduated from **University of Electronic Science and Technology of China** with a master's degree and **Chongqing University** with a bachelor's degree
 
-I’m a **machine learning researcher** in a Cyber security company
+I’m a **machine learning researcher** in a cyber security company
 
 I’m currently working on **mining of massive datasets**
 
