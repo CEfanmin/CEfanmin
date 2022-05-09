@@ -16,7 +16,7 @@ I’m currently working on **mining of massive datasets**
 4. CN201911288437.9  一种Web攻击检测方法、系统、介质和设备  **已授权**
 5. Lv, L. ,  Cheng, J. ,  Peng, N. , **Fan, M.** , &  Zhang, J. . (2019). Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud. 2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr). IEEE.
 6. Xu, F. ,  Huang, R. ,  Cheng, H. , **Fan, M.** , &  Qiu, J. . (2021). Exoskeleton cloud-brain platform and its application in safety assessment. Assembly Automation, ahead-of-print(ahead-of-print)
-7. Fan Min,Li Changmao,Chen Feiyu,et al.Attacker’s ip analysis system based on eblof algorithm and its application[J].Advanced Engineering Sciences,2022,54(3):1–7.[范敏,李昌茂,陈飞宇,等.基于EBLOF算法的攻击者IP分析系统及其应用[J].工程科学与技术,2022,54(3):1–7.]
+7. **Fan Min**,Li Changmao,Chen Feiyu,et al.Attacker’s ip analysis system based on eblof algorithm and its application[J].Advanced Engineering Sciences,2022,54(3):1–7.[**范敏**,李昌茂,陈飞宇,等.基于EBLOF算法的攻击者IP分析系统及其应用[J].工程科学与技术,2022,54(3):1–7.]
 8. on the way
 <!--
 **CEfanmin/CEfanmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
