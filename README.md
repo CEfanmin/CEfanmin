@@ -17,7 +17,8 @@ I’m currently working on **mining of massive datasets**
 6. CN202011290867.7  基于改进fastText的跨站脚本攻击检测方法  **已授权**
 9. Xu, F., **Fan, M**.,  Huang, R., Cheng, H., & Qiu, J. (2021). Exoskeleton cloud-brain platform and its application in safety assessment. Assembly Automation.
 11. **范敏**,李昌茂,陈飞宇,陈超一.基于EBLOF算法的攻击者IP分析系统及应用[J].工程科学与技术,2022,54(3):91-97. **FAN Min**,LI Changmao,CHEN Feiyu,CHEN Chaoyi.Attacker’s IP Analysis System Based on EBLOF Algorithm and Application[J].Advanced Engineering Sciences,2022,54(3):91-97.
-12. on the way...
+12. **范敏**,李艳霞,吴文娟,等.基于E-HST算法的HTTP异常流量检测系统及应用[J].信息安全研究,2023,09(1):20-24.
+13. on the way...
 <!--
 **CEfanmin/CEfanmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
