@@ -1,9 +1,9 @@
 ## Hello👋 Nice to meet you!
 
 ### About Me
-I’m graduated from **University of Electronic Science and Technology of China** with a master's degree and **Chongqing University** with a bachelor's degree.
-During my master's period, I was sent to MIT and Harvard University for summer study at public expense, and I also showed my works at Microsoft Asia Research.
-Now, I’m a **machine learning researcher** in a cyber security company, working on **mining of massive datasets**.
+- I’m graduated from **University of Electronic Science and Technology of China** with a master's degree and **Chongqing University** with a bachelor's degree.
+- During my master's period, I was sent to MIT and Harvard University for summer study at public expense, and I also showed my works at Microsoft Asia Research.
+- Now, I’m a **machine learning researcher** in a cyber security company, working on **mining of massive datasets**.
 
 ### Papers
 1. Lv, L. , **Fan, M.**,  Cheng, J.,  Peng, N., &  Zhang, J. . (2019). Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud. 2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr). IEEE.
