@@ -2,7 +2,7 @@
 
 ### About Me
 - I’m graduated from **University of Electronic Science and Technology of China** with a master's degree and **Chongqing University** with a bachelor's degree.
-- During my master's period, I was sent to MIT, Harvard University and SUNY Albany for summer study at public expense, and I also showed my works at Microsoft Asia Research.
+- During my master's period, I was sent to **MIT, Harvard University and SUNY Albany** for summer study at public expense, and I also showed my works at Microsoft Asia Research.
 - Now, I’m a **machine learning researcher** in a cyber security company, working on **mining of massive datasets**.
 
 ### Papers
