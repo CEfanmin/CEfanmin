@@ -12,6 +12,8 @@
 4. Xu, F., **Fan, M**.,  Huang, R., Cheng, H., & Qiu, J. (2021). Exoskeleton cloud-brain platform and its application in safety assessment. Assembly Automation.
 5. **范敏**,李昌茂,陈飞宇,陈超一.基于EBLOF算法的攻击者IP分析系统及应用[J].工程科学与技术,2022,54(3):91-97. **FAN Min**,LI Changmao,CHEN Feiyu,CHEN Chaoyi.Attacker’s IP Analysis System Based on EBLOF Algorithm and Application[J].Advanced Engineering Sciences,2022,54(3):91-97.
 6. **范敏**,李艳霞,吴文娟等. 基于E-HST算法的HTTP异常流量检测系统及应用[C]//中国计算机学会.第38次全国计算机安全学术交流会论文集.[信息安全研究],2023:5.DOI:10.26914/c.cnkihy.2023.035893.
+7. **范敏**,李艳霞,胡星高等. 基于大语言模型的Bash命令注入攻击检测系统研究[J].信息安全研究,2024,10:27-31
+
 
 ### Patents
 1. CN201911288437.9  《一种Web攻击检测方法、系统、介质和设备》  **已授权**
