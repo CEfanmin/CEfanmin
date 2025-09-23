@@ -1,4 +1,4 @@
-## Hello👋 Nice to meet you!
+## Hello~Nice to meet!
 
 ### About Me
 - I’m graduated from **University of Electronic Science and Technology of China** with a master's degree and **Chongqing University** with a bachelor's degree.
@@ -13,13 +13,14 @@
 5. **范敏**,李昌茂,陈飞宇,陈超一.基于EBLOF算法的攻击者IP分析系统及应用[J].工程科学与技术,2022,54(3):91-97. **FAN Min**,LI Changmao,CHEN Feiyu,CHEN Chaoyi.Attacker’s IP Analysis System Based on EBLOF Algorithm and Application[J].Advanced Engineering Sciences,2022,54(3):91-97.
 6. **范敏**,李艳霞,吴文娟等. 基于E-HST算法的HTTP异常流量检测系统及应用[C]//中国计算机学会.第38次全国计算机安全学术交流会论文集.[信息安全研究],2023:5.DOI:10.26914/c.cnkihy.2023.035893.
 7. **范敏**,李艳霞,胡星高等. 基于大语言模型的Bash命令注入攻击检测系统研究[J].信息安全研究,2024,10:27-31
+8. **范敏**,张林波,李展等. 告警研判智能体系统研究[J].信息安全研究,2025,11
 
 
 ### Patents
 1. CN201911288437.9  《一种Web攻击检测方法、系统、介质和设备》  **已授权**
 2. CN202011290867.7  《基于改进fastText的跨站脚本攻击检测方法》  **已授权**
 3. CN202111309066.5 《告警数据处理方法、装置、系统、设备和存储介质》 **已授权** 
-4. on the way...
+4. CN202211623082.6 《基于局部敏感哈希算法的伴随域名检测方法》 **已授权** 
 <!--
 **CEfanmin/CEfanmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
