@@ -1,4 +1,4 @@
-## Hello~Nice to meet!
+## Hello 😊 Nice to meet!
 
 ### About Me
 - I’m graduated from **University of Electronic Science and Technology of China** with a master's degree and **Chongqing University** with a bachelor's degree.
