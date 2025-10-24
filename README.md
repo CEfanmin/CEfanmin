@@ -3,7 +3,7 @@
 ### About Me
 - I’m graduated from **University of Electronic Science and Technology of China** with a master's degree and **Chongqing University** with a bachelor's degree.
 - During my master's period, I was sent to **MIT, Harvard University and SUNY Albany** for summer study at public expense, and I also showed my works at **Microsoft Research Asia** "Collaborative Innovation and Research" annual conference.
-- Now, I’m a **machine learning researcher** in a cyber security company, working on **mining of massive datasets**.
+- Now, I’m a **machine learning researcher** in a cyber security company, working on **AI for Security & Security of AI**. I am currently a reviewer for the journal of **Computational Intelligence**.
 
 ### Papers
 1. Lv, L. , **Fan, M.**,  Cheng, J.,  Peng, N., &  Zhang, J. . (2019). Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud. 2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr). IEEE.
