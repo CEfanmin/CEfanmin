@@ -9,7 +9,7 @@
 1. Lv, L. , **Fan, M.**,  Cheng, J.,  Peng, N., &  Zhang, J. . (2019). Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud. 2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr). IEEE.
 2. **范敏**,范晓波,胥小波,康英来. 基于混合图卷积网络模型的节点分类方法[J].通信技术,2020,53(12):2973-2982
 3. **范敏**,胥小波,聂小明. 基于字符级扩张卷积网络的Web攻击检测方法[J].计算机应用研究,2020,37(S2):234-237
-4. Xu, F., **Fan, M**.,  Huang, R., Cheng, H., & Qiu, J. (2021). Exoskeleton cloud-brain platform and its application in safety assessment. Assembly Automation.
+4. Xu F, Huang R, Cheng H, **Fan M**, Qiu J (2021), "Exoskeleton cloud-brain platform and its application in safety assessment". Assembly Automation, Vol. 41 No. 3 pp. 333–344, doi: https://doi.org/10.1108/AA-11-2020-0184.
 5. **范敏**,李昌茂,陈飞宇,陈超一.基于EBLOF算法的攻击者IP分析系统及应用[J].工程科学与技术,2022,54(3):91-97. **FAN Min**,LI Changmao,CHEN Feiyu,CHEN Chaoyi.Attacker’s IP Analysis System Based on EBLOF Algorithm and Application[J].Advanced Engineering Sciences,2022,54(3):91-97.
 6. **范敏**,李艳霞,吴文娟等. 基于E-HST算法的HTTP异常流量检测系统及应用[C]//中国计算机学会.第38次全国计算机安全学术交流会论文集.[信息安全研究],2023:5.DOI:10.26914/c.cnkihy.2023.035893.
 7. **范敏**,李艳霞,胡星高等. 基于大语言模型的Bash命令注入攻击检测系统研究[J].信息安全研究,2024,10:27-31
