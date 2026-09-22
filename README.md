@@ -20,8 +20,8 @@
 - 🏫 **Bachelor's Degree** - Chongqing University
 
 🌍 **International Experience**
-- 🇺🇸 Summer Research Scholar at **MIT, Harvard University, and SUNY Albany** (Public-funded)
-- 🇨🇳 Showcased research at **Microsoft Research Asia** "Collaborative Innovation"
+- US Summer Research Scholar at **MIT, Harvard University, and SUNY Albany** (Public-funded)
+- CN Showcased research at **Microsoft Research Asia** "Collaborative Innovation"
 
 💼 **Current Role**
 - 🔐 **Machine Learning Researcher** - Cyber Security Company
@@ -80,7 +80,3 @@
 </div>
 
 ---
-
-**📫 Let's Connect!**
-- Feel free to reach out for collaboration or discussion!
-
